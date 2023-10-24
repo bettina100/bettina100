@@ -14,4 +14,4 @@
   Learn more and contact me
   ---
 [![Gmail Badge](https://img.shields.io/badge/-norbert.wowy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:norbert.wowy@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Norbert%20Wowy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Norbert/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Norbert%20Wowy-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/NorbertWowy/ "Connect on LinkedIn")
