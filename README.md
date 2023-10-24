@@ -10,4 +10,6 @@
 
 - What is to come?
 - What are the expectations?
-- What is the time schedule for the projects?
+- Learn more and contact me
+  ---
+[![Gmail Badge](https://img.shields.io/badge/-norbert.wowy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:norbert.wowy@gmail.com "Connect via Email")
